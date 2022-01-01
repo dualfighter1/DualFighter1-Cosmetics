@@ -1,0 +1,4 @@
+displayName = DualFighter1's Cosmetics
+author = DualFighter1
+version = 1.0
+homepage =https://dualfighter1.webnode.co.uk/l/dualfighter1s-cosmetics/

@@ -1,0 +1,18 @@
+DualFighter1's Cosmetics is a mod that adds cosmetics based on DualFighter1 and their OCs.
+Non of these textures are final. Every texture is basic and will be updated when the mod is finished.
+
+Current Vanity Sets:
+DualFighter Armour
+
+Planned Vanity Sets:
+DF1(casual)
+Astria(casual)
+Astria(armoured)
+Ruby(casual)
+Ruby(armoured)
+
+V1.0
+DualFighter Armour Added
+
+V0.0
+Mod Created
